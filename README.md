@@ -26,5 +26,7 @@ Créer un CV structuré, accessible et optimisé pour le web, en utilisant uniqu
 - HTML5
 
 ## Auteur
+## Lien du projet
 
+Projet réalisé dans le cadre de : https://roadmap.sh/projects/single-page-cv
 Jacqueline Doufing Sangaré
